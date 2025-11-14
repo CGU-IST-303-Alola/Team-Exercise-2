@@ -11,3 +11,7 @@
 	- Import OS to get current directory
 	- Create Directory `wiki_dl`
 	- Update file writes to with directory using join
+- Task 3: Error handling for wiki search
+- Task 4: Error handling for wiki page
+- Task 5: Cleaning page title
+- Task 6: Error handling for file writing
